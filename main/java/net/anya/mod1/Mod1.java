@@ -1,5 +1,5 @@
 package net.anya.mod1;
-p
+
 import com.mojang.logging.LogUtils;
 import net.anya.mod1.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
