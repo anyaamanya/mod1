@@ -1,1 +1,1 @@
-making minecraft mods along with learning java
+making minecraft mods as learn java
